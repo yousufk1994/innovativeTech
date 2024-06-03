@@ -1,0 +1,13 @@
+
+
+@media (max-height: 710px),(max-width:1080px) {
+    .xsd{
+        margin-top: -28px;
+    }
+    .rw{
+        margin-top: -50px;
+    }
+    .f{
+        font-size: 10px;
+    }
+}
